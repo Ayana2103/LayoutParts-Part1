@@ -2,7 +2,7 @@
 /* 回答はここから */
 .brank{
   width: 200px;
-  height: 76px;
+  padding: 20px 0;
   background-color: #FFF;
   position: relative;
   text-align: center;
@@ -11,7 +11,6 @@
   display: inline-block;
   background-color: #a4b3e9;
   padding: 10px;
-  margin: 20px;
 }
 .margin{
   background-color: #a4b3e9;
@@ -23,7 +22,6 @@
   left: 0;
   right: 0;
   margin: auto;
-  position:absolute;
 }
 .container-table{
   display: table-cell;
@@ -43,6 +41,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 250px;
+  height: 150px;
 }
 .flex{
   background-color: #fff;
@@ -60,4 +60,4 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
-/* 再プッシュ用コメント */
+/* 修正21.07.05 */
