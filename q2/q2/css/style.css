@@ -4,7 +4,6 @@
   display: flex;
   margin: 0;
   padding: 60px;
-  align-items: stretch;
   justify-content: space-around;
 }
 .article{
@@ -15,5 +14,4 @@
   outline: 10px solid #655;
   width: 200px;
   padding: 10px;
-  height: 100%;
 }
