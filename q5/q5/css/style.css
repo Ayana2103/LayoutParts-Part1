@@ -1,1 +1,84 @@
 @charset "UTF-8";
+.q5-1{
+  background-color: #00bbdd;
+  color: #fff;
+  padding: 10px;
+  margin: 20px;
+  width: 65px;
+}
+.q5-2{
+  background-color: #00bbdd;
+  color: #fff;
+  padding: 10px;
+  margin: 20px;
+  width: 65px;
+}
+.grope1{
+  display: flex;
+  text-align: center;
+}
+.grope2{
+  display: flex;
+  text-align: center;
+  flex-direction: row-reverse;
+}
+.grope3{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+.grope4{
+  display: flex;
+  text-align: center;
+  flex-direction: column-reverse;
+}
+.grope5{
+  display: flex;
+  text-align: center;
+  flex-wrap: nowrap;
+}
+.grope6{
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+}
+.grope7{
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap-reverse;
+}
+.grope8{
+  display: flex;
+  text-align: center;
+  justify-content:flex-start;
+}
+.grope9{
+  display: flex;
+  text-align: center;
+  justify-content:flex-end;
+}
+.grope10{
+  display: flex;
+  text-align: center;
+  justify-content:center;
+}
+.grope11{
+  display: flex;
+  text-align: center;
+  justify-content:space-between;
+}
+.grope12{
+  display: flex;
+  text-align: center;
+  justify-content:space-around;
+}
+.grope13{
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  gap: 10px;
+}
+.q5-2{
+  background-color: #00bbdd;
+  color: #fff;
+  padding: 10px;
+}
