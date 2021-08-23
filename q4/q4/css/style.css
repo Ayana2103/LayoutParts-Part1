@@ -2,7 +2,10 @@
 .sub--area{
   display: flex;
   text-align: center;
-  margin: 50px;
+  margin: 50px 0;
+}
+.sub--area:first-child{
+  margin: 0;
 }
 .red{
   background-color: #ff7b7b;
