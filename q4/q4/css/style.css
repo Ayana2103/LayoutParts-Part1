@@ -1,11 +1,15 @@
 @charset "UTF-8";
 .sub--area{
-  display: flex;
+  display: table;
+  width: 100%;
   text-align: center;
   margin-top: 50px;
 }
 .sub--area:first-child{
   margin-top: 0;
+}
+.cell-box{
+  display: table-cell;
 }
 .red{
   background-color: #ff7b7b;
